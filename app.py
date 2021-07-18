@@ -21,7 +21,6 @@ def setup():
     # TODO: Use the Ingestor class to parse all files in the
     # quote_files variable
     quotes = None
-
     images_path = "./_data/photos/dog/"
 
     # TODO: Use the pythons standard library os class to find all
